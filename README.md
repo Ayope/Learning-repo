@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-this is my first README.md file (btw HI future me reading this).
+This is my first README.md file (btw Hi future me reading this).
